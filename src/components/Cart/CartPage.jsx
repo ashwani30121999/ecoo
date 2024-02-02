@@ -13,6 +13,7 @@ const CartPage = () => {
   const [subTotal, setSubTotal] = useState(0)
   const user = useContext(UserContext)
   const { cart, removeFromCart, updateCart, setCart } = useContext(CartContext)
+  console.log(5)
 
   useEffect(() => {
     let total = 0
