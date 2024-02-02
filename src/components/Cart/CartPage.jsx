@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useContext } from "react"
-import config from "../..config.json"
+import config from "../../config.json"
 import UserContext from "../../contexts/UserContext"
 import "./CartPage.css"
 import remove from "../../assets/remove.png"
