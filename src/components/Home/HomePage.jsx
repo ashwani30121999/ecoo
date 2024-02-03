@@ -20,7 +20,7 @@ const HomePage = () => {
       <HeroSection
         title="Build the ultimate setup"
         subtitle="You can add Studio Display and colour-matched Magic accessories to your bag after configure your Mac mini."
-        link="/product/65bcaa5a9351f760c6e15da3"
+        link="/product/65bcaa5a9351f760c6e15da2"
         image={mac}
       />
     </div>
