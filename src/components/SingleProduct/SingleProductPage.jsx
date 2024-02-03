@@ -38,7 +38,7 @@ const SingleProductPage = () => {
             </div>
 
             <img
-              src={`${config.backendURL}/${product.images[selectedImage]}`}
+              src={`${config.backendURL}/products/${product.images[selectedImage]}`}
               alt={product.title}
               className="single_product_display"
             />
